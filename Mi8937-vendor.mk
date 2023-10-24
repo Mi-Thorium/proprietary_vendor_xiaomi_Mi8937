@@ -1606,7 +1606,7 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/Mi8937/proprietary/odm/lib64/hw/fingerprint.prada_fpc.so:$(TARGET_COPY_OUT_ODM)/lib64/hw/fingerprint.prada_fpc.so \
     vendor/xiaomi/Mi8937/proprietary/odm/overlayfs/land/lib64/hw/fingerprint.land_goodix.so:$(TARGET_COPY_OUT_ODM)/overlayfs/land/lib64/hw/fingerprint.land_goodix.so \
     vendor/xiaomi/Mi8937/proprietary/odm/overlayfs/santoni/lib64/hw/fingerprint.santoni_goodix.so:$(TARGET_COPY_OUT_ODM)/overlayfs/santoni/lib64/hw/fingerprint.santoni_goodix.so \
-    vendor/xiaomi/Mi8937/proprietary/odm/lib64/hw/fingerprint.ugg_fpc.so:$(TARGET_COPY_OUT_ODM)/lib64/hw/fingerprint.ugg_fpc.so \
+    vendor/xiaomi/Mi8937/proprietary/odm/lib64/hw/fingerprint.ugg_fpc.so:$(TARGET_COPY_OUT_ODM)/lib64/hw/fingerprint.msm8937.so \
     vendor/xiaomi/Mi8937/proprietary/odm/overlayfs/land/lib64/hw/gxfingerprint.land.so:$(TARGET_COPY_OUT_ODM)/overlayfs/land/lib64/hw/gxfingerprint.land.so \
     vendor/xiaomi/Mi8937/proprietary/odm/overlayfs/prada/lib64/hw/gxfingerprint.prada.so:$(TARGET_COPY_OUT_ODM)/overlayfs/prada/lib64/hw/gxfingerprint.prada.so \
     vendor/xiaomi/Mi8937/proprietary/odm/overlayfs/santoni/lib64/hw/gxfingerprint.santoni.so:$(TARGET_COPY_OUT_ODM)/overlayfs/santoni/lib64/hw/gxfingerprint.santoni.so \
@@ -1630,7 +1630,7 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/Mi8937/proprietary/vendor/etc/acdbdata/wt8917/QRD_Headset_cal.acdb:$(TARGET_COPY_OUT_VENDOR)/etc/acdbdata/wt8917/QRD_Headset_cal.acdb \
     vendor/xiaomi/Mi8937/proprietary/vendor/etc/acdbdata/wt8917/QRD_Speaker_cal.acdb:$(TARGET_COPY_OUT_VENDOR)/etc/acdbdata/wt8917/QRD_Speaker_cal.acdb \
     vendor/xiaomi/Mi8937/proprietary/vendor/etc/acdbdata/wt8917/QRD_workspaceFile.qwsp:$(TARGET_COPY_OUT_VENDOR)/etc/acdbdata/wt8917/QRD_workspaceFile.qwsp \
-    vendor/xiaomi/Mi8937/proprietary/odm/lib64/hw/gf_fingerprint.ugg.so:$(TARGET_COPY_OUT_ODM)/lib64/hw/gf_fingerprint.ugg.so \
+    vendor/xiaomi/Mi8937/proprietary/odm/lib64/hw/gf_fingerprint.ugg.so:$(TARGET_COPY_OUT_ODM)/lib64/hw/gf_fingerprint.default.so \
     vendor/xiaomi/Mi8937/proprietary/odm/lib64/libvendor.goodix.hardware.fingerprint@1.0-service.so:$(TARGET_COPY_OUT_ODM)/lib64/libvendor.goodix.hardware.fingerprint@1.0-service.so \
     vendor/xiaomi/Mi8937/proprietary/odm/lib64/libvendor.goodix.hardware.fingerprint@1.0.so:$(TARGET_COPY_OUT_ODM)/lib64/libvendor.goodix.hardware.fingerprint@1.0.so
 PRODUCT_COPY_FILES += \
