@@ -1593,7 +1593,6 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/Mi8937/proprietary/vendor/etc/qdcm_calib_data_nt35521s_HD720p_video_EBBG.xml:$(TARGET_COPY_OUT_VENDOR)/etc/qdcm_calib_data_nt35521s_HD720p_video_EBBG.xml \
     vendor/xiaomi/Mi8937/proprietary/vendor/etc/qdcm_calib_data_nt35521s_HD720p_video_EBBG_c3a.xml:$(TARGET_COPY_OUT_VENDOR)/etc/qdcm_calib_data_nt35521s_HD720p_video_EBBG_c3a.xml \
     vendor/xiaomi/Mi8937/proprietary/vendor/overlayfs/prada/etc/sensors/sensor_def_qcomdev.conf:$(TARGET_COPY_OUT_VENDOR)/overlayfs/prada/etc/sensors/sensor_def_qcomdev.conf \
-    vendor/xiaomi/Mi8937/proprietary/vendor/overlayfs/riva/etc/sensors/sensor_def_qcomdev.conf:$(TARGET_COPY_OUT_VENDOR)/overlayfs/riva/etc/sensors/sensor_def_qcomdev.conf \
     vendor/xiaomi/Mi8937/proprietary/vendor/overlayfs/rolex/etc/sensors/sensor_def_qcomdev.conf:$(TARGET_COPY_OUT_VENDOR)/overlayfs/rolex/etc/sensors/sensor_def_qcomdev.conf \
     vendor/xiaomi/Mi8937/proprietary/vendor/overlayfs/ulysse/etc/sensors/sensor_def_qcomdev.conf:$(TARGET_COPY_OUT_VENDOR)/overlayfs/ulysse/etc/sensors/sensor_def_qcomdev.conf \
     vendor/xiaomi/Mi8937/proprietary/vendor/overlayfs/wt8937/etc/sensors/sensor_def_qcomdev.conf:$(TARGET_COPY_OUT_VENDOR)/overlayfs/wt8937/etc/sensors/sensor_def_qcomdev.conf \
@@ -1630,6 +1629,7 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/Mi8937/proprietary/vendor/etc/acdbdata/wt8917/QRD_Headset_cal.acdb:$(TARGET_COPY_OUT_VENDOR)/etc/acdbdata/wt8917/QRD_Headset_cal.acdb \
     vendor/xiaomi/Mi8937/proprietary/vendor/etc/acdbdata/wt8917/QRD_Speaker_cal.acdb:$(TARGET_COPY_OUT_VENDOR)/etc/acdbdata/wt8917/QRD_Speaker_cal.acdb \
     vendor/xiaomi/Mi8937/proprietary/vendor/etc/acdbdata/wt8917/QRD_workspaceFile.qwsp:$(TARGET_COPY_OUT_VENDOR)/etc/acdbdata/wt8917/QRD_workspaceFile.qwsp \
+    vendor/xiaomi/Mi8937/proprietary/vendor/overlayfs/riva/etc/sensors/sensor_def_qcomdev.conf:$(TARGET_COPY_OUT_VENDOR)/overlayfs/riva/etc/sensors/sensor_def_qcomdev.conf \
     vendor/xiaomi/Mi8937/proprietary/odm/lib64/hw/gf_fingerprint.ugg.so:$(TARGET_COPY_OUT_ODM)/lib64/hw/gf_fingerprint.ugg.so \
     vendor/xiaomi/Mi8937/proprietary/odm/lib64/libvendor.goodix.hardware.fingerprint@1.0-service.so:$(TARGET_COPY_OUT_ODM)/lib64/libvendor.goodix.hardware.fingerprint@1.0-service.so \
     vendor/xiaomi/Mi8937/proprietary/odm/lib64/libvendor.goodix.hardware.fingerprint@1.0.so:$(TARGET_COPY_OUT_ODM)/lib64/libvendor.goodix.hardware.fingerprint@1.0.so
