@@ -1581,7 +1581,14 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/Mi8937/proprietary/vendor/etc/acdbdata/santoni/QRD_SKU7_Hdmi_cal.acdb:$(TARGET_COPY_OUT_VENDOR)/etc/acdbdata/santoni/QRD_SKU7_Hdmi_cal.acdb \
     vendor/xiaomi/Mi8937/proprietary/vendor/etc/acdbdata/santoni/QRD_SKU7_Headset_cal.acdb:$(TARGET_COPY_OUT_VENDOR)/etc/acdbdata/santoni/QRD_SKU7_Headset_cal.acdb \
     vendor/xiaomi/Mi8937/proprietary/vendor/etc/acdbdata/santoni/QRD_SKU7_Speaker_cal.acdb:$(TARGET_COPY_OUT_VENDOR)/etc/acdbdata/santoni/QRD_SKU7_Speaker_cal.acdb \
-    vendor/xiaomi/Mi8937/proprietary/odm/firmware/goodix_firmware.bin:$(TARGET_COPY_OUT_ODM)/firmware/goodix_firmware.bin \
+    vendor/xiaomi/Mi8937/proprietary/odm/firmware/ugg/goodixfp.b00:$(TARGET_COPY_OUT_ODM)/firmware/ugg/goodixfp.b00 \
+    vendor/xiaomi/Mi8937/proprietary/odm/firmware/ugg/goodixfp.b01:$(TARGET_COPY_OUT_ODM)/firmware/ugg/goodixfp.b01 \
+    vendor/xiaomi/Mi8937/proprietary/odm/firmware/ugg/goodixfp.b02:$(TARGET_COPY_OUT_ODM)/firmware/ugg/goodixfp.b02 \
+    vendor/xiaomi/Mi8937/proprietary/odm/firmware/ugg/goodixfp.b03:$(TARGET_COPY_OUT_ODM)/firmware/ugg/goodixfp.b03 \
+    vendor/xiaomi/Mi8937/proprietary/odm/firmware/ugg/goodixfp.b04:$(TARGET_COPY_OUT_ODM)/firmware/ugg/goodixfp.b04 \
+    vendor/xiaomi/Mi8937/proprietary/odm/firmware/ugg/goodixfp.b05:$(TARGET_COPY_OUT_ODM)/firmware/ugg/goodixfp.b05 \
+    vendor/xiaomi/Mi8937/proprietary/odm/firmware/ugg/goodixfp.b06:$(TARGET_COPY_OUT_ODM)/firmware/ugg/goodixfp.b06 \
+    vendor/xiaomi/Mi8937/proprietary/odm/firmware/ugg/goodixfp.mdt:$(TARGET_COPY_OUT_ODM)/firmware/ugg/goodixfp.mdt \
     vendor/xiaomi/Mi8937/proprietary/vendor/etc/qdcm_calib_data_hx8394F_HD720p_video_BOE.xml:$(TARGET_COPY_OUT_VENDOR)/etc/qdcm_calib_data_hx8394F_HD720p_video_BOE.xml \
     vendor/xiaomi/Mi8937/proprietary/vendor/etc/qdcm_calib_data_hx8394F_HD720p_video_BOE_c3a.xml:$(TARGET_COPY_OUT_VENDOR)/etc/qdcm_calib_data_hx8394F_HD720p_video_BOE_c3a.xml \
     vendor/xiaomi/Mi8937/proprietary/vendor/etc/qdcm_calib_data_hx8394F_HD720p_video_BOE_c3b.xml:$(TARGET_COPY_OUT_VENDOR)/etc/qdcm_calib_data_hx8394F_HD720p_video_BOE_c3b.xml \
